@@ -23,16 +23,16 @@
         "ShiraoriBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/GataNina-Li/MultiverseBot-MD",
+    "homepage": "https://github.com/Multi-bot-md/MultiverseBot-MD",
     "author": {
-        "name": "GataNina-Li"
+        "name": "Multi-bot-md"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/github.com/GataNina-Li/MultiverseBot-MD.git"
+        "url": "git+https://github.com/Multi-bot-md/MultiverseBot-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/github.com/GataNina-Li/MultiverseBot-MD/issues"
+        "url": "https://github.com/github.com/Multi-bot-md/MultiverseBot-MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
